@@ -11,6 +11,7 @@ A curated list of resources, papers, software, and tools at the intersection of 
 
 - [Review Papers & Perspectives](#review-papers--perspectives)
 - [Quantum Chemistry & Molecular Simulation](#quantum-chemistry--molecular-simulation)
+- [RNA & Genomics](#rna--genomics)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -31,6 +32,12 @@ Quantum approaches for accurate molecular energy calculations, excited-state sim
 
 - [High-Quality Protein Force Fields with Noisy Quantum Processors](https://arxiv.org/abs/1907.07128) - Resource estimates and workflow for improving biomolecular force fields via quantum chemistry. (arXiv, 2019)
 - [Quantum chemical simulations of excited states](https://arxiv.org/abs/2109.02110) - Methods for computing excited electronic states relevant to photopharmacology. (arXiv, 2021)
+
+## RNA & Genomics
+
+Quantum computing applications for RNA structure prediction and genomic analysis.
+
+- [Predicting RNA secondary structure using quantum computing](https://www.biorxiv.org/content/10.1101/2021.05.27.446060v1) - RNA folding formulated as combinatorial optimization on quantum hardware. (bioRxiv, 2021)
 
 ## Contributing
 
