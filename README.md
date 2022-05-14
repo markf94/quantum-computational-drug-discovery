@@ -11,6 +11,7 @@ A curated list of resources, papers, software, and tools at the intersection of 
 
 - [Review Papers & Perspectives](#review-papers--perspectives)
 - [Quantum Chemistry & Molecular Simulation](#quantum-chemistry--molecular-simulation)
+- [Molecular Docking & Virtual Screening](#molecular-docking--virtual-screening)
 - [RNA & Genomics](#rna--genomics)
 - [Contributing](#contributing)
 - [License](#license)
@@ -32,6 +33,15 @@ Quantum approaches for accurate molecular energy calculations, excited-state sim
 
 - [High-Quality Protein Force Fields with Noisy Quantum Processors](https://arxiv.org/abs/1907.07128) - Resource estimates and workflow for improving biomolecular force fields via quantum chemistry. (arXiv, 2019)
 - [Quantum chemical simulations of excited states](https://arxiv.org/abs/2109.02110) - Methods for computing excited electronic states relevant to photopharmacology. (arXiv, 2021)
+
+## Molecular Docking & Virtual Screening
+
+Quantum and quantum-inspired approaches for ligand docking, pose prediction, and large-scale screening.
+
+### Core Docking Methods
+
+- [Molecular docking with Gaussian Boson Sampling](https://www.science.org/doi/10.1126/sciadv.aax1950) - Xanadu/ProteinQure collaboration showing photonic quantum devices can predict docking configurations via maximum weighted clique reductions. (Science Advances, 2020)
+- [Molecular Docking Using Quantum Mechanical-Based Methods](https://pubmed.ncbi.nlm.nih.gov/32016899/) - Review of QM-based docking for improved accuracy. (Methods Mol. Biol., 2020)
 
 ## RNA & Genomics
 
