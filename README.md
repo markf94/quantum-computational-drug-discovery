@@ -13,6 +13,7 @@ A curated list of resources, papers, software, and tools at the intersection of 
 - [Quantum Chemistry & Molecular Simulation](#quantum-chemistry--molecular-simulation)
 - [Molecular Docking & Virtual Screening](#molecular-docking--virtual-screening)
 - [RNA & Genomics](#rna--genomics)
+- [Datasets & Benchmarks](#datasets--benchmarks)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -49,6 +50,13 @@ Quantum and quantum-inspired approaches for ligand docking, pose prediction, and
 Quantum computing applications for RNA structure prediction and genomic analysis.
 
 - [Predicting RNA secondary structure using quantum computing](https://www.biorxiv.org/content/10.1101/2021.05.27.446060v1) - RNA folding formulated as combinatorial optimization on quantum hardware. (bioRxiv, 2021)
+
+## Datasets & Benchmarks
+
+### Drug Discovery Datasets (Commonly Used in QML)
+
+- [BindingDB](https://www.bindingdb.org/bind/index.jsp) - Measured binding affinities for protein-ligand interactions; widely used for DTI benchmarks.
+- [ChEMBL](https://www.ebi.ac.uk/chembl/) - Open bioactivity database for drug-like molecules and targets.
 
 ## Contributing
 
