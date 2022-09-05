@@ -50,6 +50,7 @@ Quantum and quantum-inspired approaches for ligand docking, pose prediction, and
 Quantum computing applications for RNA structure prediction and genomic analysis.
 
 - [Predicting RNA secondary structure using quantum computing](https://www.biorxiv.org/content/10.1101/2021.05.27.446060v1) - RNA folding formulated as combinatorial optimization on quantum hardware. (bioRxiv, 2021)
+- [Quantum computing applications in genomics](https://www.mdpi.com/2076-3417/11/6/2696) - Survey of quantum approaches for genomic data analysis. (Applied Sciences, 2021)
 
 ## Datasets & Benchmarks
 
