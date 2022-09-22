@@ -12,6 +12,7 @@ A curated list of resources, papers, software, and tools at the intersection of 
 - [Review Papers & Perspectives](#review-papers--perspectives)
 - [Quantum Chemistry & Molecular Simulation](#quantum-chemistry--molecular-simulation)
 - [Molecular Docking & Virtual Screening](#molecular-docking--virtual-screening)
+- [Protein Folding](#protein-folding)
 - [RNA & Genomics](#rna--genomics)
 - [Datasets & Benchmarks](#datasets--benchmarks)
 - [Contributing](#contributing)
@@ -44,6 +45,15 @@ Quantum and quantum-inspired approaches for ligand docking, pose prediction, and
 
 - [Molecular docking with Gaussian Boson Sampling](https://www.science.org/doi/10.1126/sciadv.aax1950) - Xanadu/ProteinQure collaboration showing photonic quantum devices can predict docking configurations via maximum weighted clique reductions. (Science Advances, 2020)
 - [Molecular Docking Using Quantum Mechanical-Based Methods](https://pubmed.ncbi.nlm.nih.gov/32016899/) - Review of QM-based docking for improved accuracy. (Methods Mol. Biol., 2020)
+
+## Protein Folding
+
+Quantum algorithms and comparative studies for protein and peptide folding.
+
+### Lattice, VQE, and Quantum Walk Methods
+
+- [A quantum alternating operator ansatz with hard and soft constraints for lattice protein folding](https://arxiv.org/abs/1810.13411) - QAOA-style approach splitting optimization into hard and soft constraints. (arXiv, 2018)
+- [Coarse-grained lattice protein folding on a quantum annealer](https://arxiv.org/abs/1811.00713) - Improved Ising-type encodings on D-Wave with record lattice folding of Chignolin and Trp-Cage. (arXiv, 2018)
 
 ## RNA & Genomics
 
