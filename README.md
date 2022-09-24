@@ -54,6 +54,8 @@ Quantum algorithms and comparative studies for protein and peptide folding.
 
 - [A quantum alternating operator ansatz with hard and soft constraints for lattice protein folding](https://arxiv.org/abs/1810.13411) - QAOA-style approach splitting optimization into hard and soft constraints. (arXiv, 2018)
 - [Coarse-grained lattice protein folding on a quantum annealer](https://arxiv.org/abs/1811.00713) - Improved Ising-type encodings on D-Wave with record lattice folding of Chignolin and Trp-Cage. (arXiv, 2018)
+- [Resource-efficient quantum algorithm for protein folding](https://www.nature.com/articles/s41534-021-00368-4) - Introduced CVaR-VQE for tetrahedral-lattice protein folding. (npj Quantum Information, 2021)
+- [Quantum walks for protein and peptide folding](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009037) - Quantum-walk-based structure prediction in 3D. (PLOS Comput. Biol., 2021)
 
 ## RNA & Genomics
 
