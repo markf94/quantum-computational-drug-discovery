@@ -15,6 +15,7 @@ A curated list of resources, papers, software, and tools at the intersection of 
 - [Protein Folding](#protein-folding)
 - [RNA & Genomics](#rna--genomics)
 - [Datasets & Benchmarks](#datasets--benchmarks)
+- [Biochemical Quantum Hardware](#biochemical-quantum-hardware)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -72,6 +73,12 @@ Quantum computing applications for RNA structure prediction and genomic analysis
 - [ChEMBL](https://www.ebi.ac.uk/chembl/) - Open bioactivity database for drug-like molecules and targets.
 - [Therapeutics Data Commons (TDC)](https://tdcommons.ai/) - ML-ready datasets and benchmarks spanning targets, molecules, and clinical outcomes. (NeurIPS, 2021)
 - [ZINC](https://zinc.docking.org/) - Database of commercially available compounds for virtual screening.
+
+## Biochemical Quantum Hardware
+
+Biomolecular systems as quantum computing platforms.
+
+- [Peptides as Versatile Platforms for Quantum Computing](https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.8b01813) - Lanthanide-binding peptide tags as molecular qubits demonstrating coherent oscillations via pulsed EPR. (J. Phys. Chem. Lett., 2018)
 
 ## Contributing
 
