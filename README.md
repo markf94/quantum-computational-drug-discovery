@@ -71,6 +71,8 @@ Quantum computing applications for RNA structure prediction and genomic analysis
 
 - [BindingDB](https://www.bindingdb.org/bind/index.jsp) - Measured binding affinities for protein-ligand interactions; widely used for DTI benchmarks.
 - [ChEMBL](https://www.ebi.ac.uk/chembl/) - Open bioactivity database for drug-like molecules and targets.
+- [MoleculeNet](https://pubs.acs.org/doi/10.1021/acs.jcim.7b00577) - Benchmark suite of molecular ML datasets commonly used for property prediction. (J. Chem. Inf. Model., 2018)
+- [RCSB Protein Data Bank (PDB)](https://www.rcsb.org/) - Structural biology database for protein targets and complexes.
 - [Therapeutics Data Commons (TDC)](https://tdcommons.ai/) - ML-ready datasets and benchmarks spanning targets, molecules, and clinical outcomes. (NeurIPS, 2021)
 - [ZINC](https://zinc.docking.org/) - Database of commercially available compounds for virtual screening.
 
