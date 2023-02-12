@@ -15,6 +15,7 @@ A curated list of resources, papers, software, and tools at the intersection of 
 - [Protein Folding](#protein-folding)
 - [RNA & Genomics](#rna--genomics)
 - [Datasets & Benchmarks](#datasets--benchmarks)
+- [Software & Tools](#software--tools)
 - [Biochemical Quantum Hardware](#biochemical-quantum-hardware)
 - [Contributing](#contributing)
 - [License](#license)
@@ -75,6 +76,15 @@ Quantum computing applications for RNA structure prediction and genomic analysis
 - [RCSB Protein Data Bank (PDB)](https://www.rcsb.org/) - Structural biology database for protein targets and complexes.
 - [Therapeutics Data Commons (TDC)](https://tdcommons.ai/) - ML-ready datasets and benchmarks spanning targets, molecules, and clinical outcomes. (NeurIPS, 2021)
 - [ZINC](https://zinc.docking.org/) - Database of commercially available compounds for virtual screening.
+
+## Software & Tools
+
+Frameworks, SDKs, and practical repositories for quantum drug discovery workflows.
+
+### Quantum Chemistry & Simulation
+
+- [InQuanto](https://www.quantinuum.com/products-solutions/inquanto) - Quantinuum's quantum computational chemistry platform for molecular simulation workflows.
+- [OpenFermion](https://github.com/quantumlib/OpenFermion) - Google's library for compiling and analyzing quantum algorithms for chemistry.
 
 ## Biochemical Quantum Hardware
 
