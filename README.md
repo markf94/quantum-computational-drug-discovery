@@ -16,6 +16,7 @@ A curated list of resources, papers, software, and tools at the intersection of 
 - [RNA & Genomics](#rna--genomics)
 - [Datasets & Benchmarks](#datasets--benchmarks)
 - [Software & Tools](#software--tools)
+- [Learning Resources](#learning-resources)
 - [Biochemical Quantum Hardware](#biochemical-quantum-hardware)
 - [Contributing](#contributing)
 - [License](#license)
@@ -85,6 +86,15 @@ Frameworks, SDKs, and practical repositories for quantum drug discovery workflow
 
 - [InQuanto](https://www.quantinuum.com/products-solutions/inquanto) - Quantinuum's quantum computational chemistry platform for molecular simulation workflows.
 - [OpenFermion](https://github.com/quantumlib/OpenFermion) - Google's library for compiling and analyzing quantum algorithms for chemistry.
+
+## Learning Resources
+
+Educational materials and hands-on tutorials for getting started quickly.
+
+### Tutorials & Workshops
+
+- [Qiskit Textbook - Quantum Chemistry](https://qiskit.org/textbook/ch-applications/vqe-molecules.html) - VQE for molecular ground states.
+- [PennyLane Quantum Chemistry Demos](https://pennylane.ai/qml/demos_quantum-chemistry.html) - Interactive tutorials on quantum chemistry algorithms.
 
 ## Biochemical Quantum Hardware
 
