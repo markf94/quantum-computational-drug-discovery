@@ -31,6 +31,10 @@ Comprehensive reviews and strategic perspectives on quantum computing applicatio
 - [Quantum chemistry in the age of quantum computing](https://pubs.acs.org/doi/10.1021/acs.chemrev.8b00803) - Comprehensive review of quantum algorithms for chemistry. (Chemical Reviews, 2019)
 - [The prospects of quantum computing in computational molecular biology](https://wires.onlinelibrary.wiley.com/doi/epdf/10.1002/wcms.1481) - Foundational review of quantum computing prospects in molecular biology. (WIREs Comput. Mol. Sci., 2020)
 
+### Industry Perspectives
+
+- [BCG Survey](https://www.bcg.com/publications/2023/quantum-computing-will-transform-pharma) - 8 of top 10 biopharma companies piloting quantum projects. (BCG, 2023)
+
 ## Quantum Chemistry & Molecular Simulation
 
 Quantum approaches for accurate molecular energy calculations, excited-state simulation, and hybrid workflows.
