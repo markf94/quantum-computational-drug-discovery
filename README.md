@@ -82,6 +82,11 @@ Quantum computing applications for RNA structure prediction and genomic analysis
 - [Therapeutics Data Commons (TDC)](https://tdcommons.ai/) - ML-ready datasets and benchmarks spanning targets, molecules, and clinical outcomes. (NeurIPS, 2021)
 - [ZINC](https://zinc.docking.org/) - Database of commercially available compounds for virtual screening.
 
+### Quantum/Hybrid Benchmarks & Datasets
+
+- [QMugs: Quantum Mechanical Properties of Drug-like Molecules](https://www.nature.com/articles/s41597-022-01870-w) - Large-scale dataset with DFT-calculated properties for drug-like molecules and molecular conformers. (Scientific Data, 2022)
+- [A performance characterization of quantum generative models](https://arxiv.org/abs/2301.09363) - Benchmarking QCBM/QGAN variants useful for selecting architectures in molecular generation pipelines. (arXiv, 2023)
+
 ## Software & Tools
 
 Frameworks, SDKs, and practical repositories for quantum drug discovery workflows.
