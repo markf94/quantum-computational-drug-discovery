@@ -95,6 +95,7 @@ Frameworks, SDKs, and practical repositories for quantum drug discovery workflow
 
 - [InQuanto](https://www.quantinuum.com/products-solutions/inquanto) - Quantinuum's quantum computational chemistry platform for molecular simulation workflows.
 - [OpenFermion](https://github.com/quantumlib/OpenFermion) - Google's library for compiling and analyzing quantum algorithms for chemistry.
+- [PennyLane](https://pennylane.ai) - Xanadu's cross-platform library for differentiable quantum chemistry.
 
 ## Learning Resources
 
