@@ -14,6 +14,7 @@ A curated list of resources, papers, software, and tools at the intersection of 
 - [Molecular Docking & Virtual Screening](#molecular-docking--virtual-screening)
 - [Protein Folding](#protein-folding)
 - [RNA & Genomics](#rna--genomics)
+- [Quantum Machine Learning for Drug Discovery](#quantum-machine-learning-for-drug-discovery)
 - [Datasets & Benchmarks](#datasets--benchmarks)
 - [Software & Tools](#software--tools)
 - [Learning Resources](#learning-resources)
@@ -70,6 +71,15 @@ Quantum computing applications for RNA structure prediction and genomic analysis
 
 - [Predicting RNA secondary structure using quantum computing](https://www.biorxiv.org/content/10.1101/2021.05.27.446060v1) - RNA folding formulated as combinatorial optimization on quantum hardware. (bioRxiv, 2021)
 - [Quantum computing applications in genomics](https://www.mdpi.com/2076-3417/11/6/2696) - Survey of quantum approaches for genomic data analysis. (Applied Sciences, 2021)
+
+## Quantum Machine Learning for Drug Discovery
+
+Applications of QML to molecule generation, molecular property prediction, and drug-target modeling.
+
+### Generative Models & Molecular Design
+
+- [Quantum Generative Models for Small Molecule Drug Discovery](https://arxiv.org/abs/2101.03438) - Qubit-efficient hybrid quantum GAN generator for learning molecular distributions; includes code. (arXiv, 2021)
+- [Quantum computing for near-term applications in generative chemistry and drug discovery](https://www.sciencedirect.com/science/article/pii/S1359644623001915) - Review of NISQ-era quantum applications for de novo molecular generation. (Drug Discovery Today, 2023)
 
 ## Datasets & Benchmarks
 
