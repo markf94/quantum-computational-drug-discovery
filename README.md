@@ -80,6 +80,8 @@ Applications of QML to molecule generation, molecular property prediction, and d
 
 - [Quantum Generative Models for Small Molecule Drug Discovery](https://arxiv.org/abs/2101.03438) - Qubit-efficient hybrid quantum GAN generator for learning molecular distributions; includes code. (arXiv, 2021)
 - [Quantum computing for near-term applications in generative chemistry and drug discovery](https://www.sciencedirect.com/science/article/pii/S1359644623001915) - Review of NISQ-era quantum applications for de novo molecular generation. (Drug Discovery Today, 2023)
+- [Exploring the Advantages of Quantum Generative Adversarial Networks in Generative Chemistry](https://pubs.acs.org/doi/10.1021/acs.jcim.3c00562) - Insilico/Zapata/U of T hybrid MolGAN-CQ with quantum discriminator outperforming classical GANs on drug-likeness metrics. (J. Chem. Inf. Model., 2023)
+- [Hybrid quantum-classical machine learning for generative chemistry and drug design](https://www.nature.com/articles/s41598-023-32703-4) - Hybrid architectures combining quantum circuits with classical networks for molecule generation and property optimization. (Scientific Reports, 2023)
 
 ## Datasets & Benchmarks
 
