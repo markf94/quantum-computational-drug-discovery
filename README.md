@@ -110,6 +110,8 @@ Frameworks, SDKs, and practical repositories for quantum drug discovery workflow
 - [PennyLane](https://pennylane.ai) - Xanadu's cross-platform library for differentiable quantum chemistry.
 - [QURI SDK](https://github.com/QunaSys/quri-sdk) - QunaSys toolkit for gate-based quantum workflows with chemistry and algorithm modules.
 - [Tangelo](https://github.com/goodchemistryco/Tangelo) - Quantum chemistry simulation toolkit originally created by Good Chemistry Company, now maintained by SandboxAQ.
+- [TenCirChem](https://github.com/tencent-quantum-lab/tencirchem) - Tencent's efficient quantum chemistry simulation package built on TensorCircuit.
+- [TEQUILA](https://github.com/tequilahub/tequila) - Open-source framework for rapid development of variational quantum algorithms with chemistry applications (Aspuru-Guzik group).
 
 ## Learning Resources
 
