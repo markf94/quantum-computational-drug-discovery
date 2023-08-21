@@ -108,6 +108,7 @@ Frameworks, SDKs, and practical repositories for quantum drug discovery workflow
 - [InQuanto](https://www.quantinuum.com/products-solutions/inquanto) - Quantinuum's quantum computational chemistry platform for molecular simulation workflows.
 - [OpenFermion](https://github.com/quantumlib/OpenFermion) - Google's library for compiling and analyzing quantum algorithms for chemistry.
 - [PennyLane](https://pennylane.ai) - Xanadu's cross-platform library for differentiable quantum chemistry.
+- [Qiskit Nature](https://github.com/Qiskit/qiskit-nature) - IBM's quantum chemistry module including ground-state, excited-state, and dipole calculations.
 - [QURI SDK](https://github.com/QunaSys/quri-sdk) - QunaSys toolkit for gate-based quantum workflows with chemistry and algorithm modules.
 - [Tangelo](https://github.com/goodchemistryco/Tangelo) - Quantum chemistry simulation toolkit originally created by Good Chemistry Company, now maintained by SandboxAQ.
 - [TenCirChem](https://github.com/tencent-quantum-lab/tencirchem) - Tencent's efficient quantum chemistry simulation package built on TensorCircuit.
