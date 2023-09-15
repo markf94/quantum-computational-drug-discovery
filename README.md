@@ -114,6 +114,11 @@ Frameworks, SDKs, and practical repositories for quantum drug discovery workflow
 - [TenCirChem](https://github.com/tencent-quantum-lab/tencirchem) - Tencent's efficient quantum chemistry simulation package built on TensorCircuit.
 - [TEQUILA](https://github.com/tequilahub/tequila) - Open-source framework for rapid development of variational quantum algorithms with chemistry applications (Aspuru-Guzik group).
 
+### SDKs, Frameworks, and Annealing Toolchains
+
+- [CUDA-Q](https://github.com/NVIDIA/cuda-quantum) - NVIDIA's open-source platform for hybrid quantum-classical application development.
+- [D-Wave Ocean SDK](https://github.com/dwavesystems/dwave-ocean-sdk) - Tools for quantum annealing optimization problems.
+
 ## Learning Resources
 
 Educational materials and hands-on tutorials for getting started quickly.
