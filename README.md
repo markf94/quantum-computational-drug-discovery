@@ -122,6 +122,11 @@ Frameworks, SDKs, and practical repositories for quantum drug discovery workflow
 
 - [CUDA-Q](https://github.com/NVIDIA/cuda-quantum) - NVIDIA's open-source platform for hybrid quantum-classical application development.
 - [D-Wave Ocean SDK](https://github.com/dwavesystems/dwave-ocean-sdk) - Tools for quantum annealing optimization problems.
+- [Qiskit Machine Learning](https://github.com/qiskit-community/qiskit-machine-learning) - Qiskit add-on for quantum kernels, QNNs, and hybrid ML workflows.
+
+### End-to-End Drug Discovery Repositories
+
+- [AWS Quantum Computing Exploration for Drug Discovery](https://github.com/awslabs/quantum-computing-exploration-for-drug-discovery-on-aws) - Notebooks for molecular unfolding (QUBO), RNA folding, protein folding (VQE, Grover), and retrosynthetic planning.
 
 ## Learning Resources
 
