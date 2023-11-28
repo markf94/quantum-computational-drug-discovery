@@ -141,6 +141,8 @@ Educational materials and hands-on tutorials for getting started quickly.
 
 - [Qiskit Textbook - Quantum Chemistry](https://qiskit.org/textbook/ch-applications/vqe-molecules.html) - VQE for molecular ground states.
 - [PennyLane Quantum Chemistry Demos](https://pennylane.ai/qml/demos_quantum-chemistry.html) - Interactive tutorials on quantum chemistry algorithms.
+- [AWS Quantum Drug Discovery Workshop](https://awslabs.github.io/quantum-computing-exploration-for-drug-discovery-on-aws/en/workshop/) - Hands-on notebooks covering molecular unfolding, protein folding, and retrosynthetic planning.
+- [NVIDIA CUDA-Q: Molecular docking via DC-QAOA](https://nvidia.github.io/cuda-quantum/latest/applications/python/digitized_counterdiabatic_qaoa.html) - Tutorial implementing DC-QAOA docking (based on [arXiv:2308.04098](https://arxiv.org/abs/2308.04098)).
 
 ## Biochemical Quantum Hardware
 
