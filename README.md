@@ -145,6 +145,7 @@ Educational materials and hands-on tutorials for getting started quickly.
 - [PennyLane Quantum Chemistry Demos](https://pennylane.ai/qml/demos_quantum-chemistry.html) - Interactive tutorials on quantum chemistry algorithms.
 - [AWS Quantum Drug Discovery Workshop](https://awslabs.github.io/quantum-computing-exploration-for-drug-discovery-on-aws/en/workshop/) - Hands-on notebooks covering molecular unfolding, protein folding, and retrosynthetic planning.
 - [NVIDIA CUDA-Q: Molecular docking via DC-QAOA](https://nvidia.github.io/cuda-quantum/latest/applications/python/digitized_counterdiabatic_qaoa.html) - Tutorial implementing DC-QAOA docking (based on [arXiv:2308.04098](https://arxiv.org/abs/2308.04098)).
+- [MATLAB Protein Folding VQE Example](https://www.mathworks.com/help/matlab/math/ground-state-protein-folding-using-variational-quantum-eigensolver-vqe.html) - Step-by-step VQE implementation for neuropeptide folding.
 
 ## Biochemical Quantum Hardware
 
