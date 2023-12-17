@@ -134,6 +134,8 @@ Frameworks, SDKs, and practical repositories for quantum drug discovery workflow
 ### End-to-End Drug Discovery Repositories
 
 - [AWS Quantum Computing Exploration for Drug Discovery](https://github.com/awslabs/quantum-computing-exploration-for-drug-discovery-on-aws) - Notebooks for molecular unfolding (QUBO), RNA folding, protein folding (VQE, Grover), and retrosynthetic planning.
+- [Quantum-ML-Drug-discovery](https://github.com/Pratik25priyanshu20/Quantum-ML-Drug-discovery) - Tutorial repository demonstrating QML approaches for drug discovery.
+- [QuPepFold](https://github.com/qupepfold/qupepfold) - Python package for CVaR-VQE peptide folding simulations with hardware-agnostic design.
 
 ## Learning Resources
 
