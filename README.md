@@ -125,6 +125,8 @@ Frameworks, SDKs, and practical repositories for quantum drug discovery workflow
 
 ### SDKs, Frameworks, and Annealing Toolchains
 
+- [Amazon Braket SDK](https://github.com/amazon-braket/amazon-braket-sdk-python) - AWS SDK for quantum computing across multiple hardware backends.
+- [Cirq](https://github.com/quantumlib/Cirq) - Google's framework for NISQ circuits.
 - [CUDA-Q](https://github.com/NVIDIA/cuda-quantum) - NVIDIA's open-source platform for hybrid quantum-classical application development.
 - [D-Wave Ocean SDK](https://github.com/dwavesystems/dwave-ocean-sdk) - Tools for quantum annealing optimization problems.
 - [dimod](https://github.com/dwavesystems/dimod) - Shared API for Ising and QUBO models.
