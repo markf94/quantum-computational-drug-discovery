@@ -19,6 +19,7 @@ A curated list of resources, papers, software, and tools at the intersection of 
 - [Software & Tools](#software--tools)
 - [Learning Resources](#learning-resources)
 - [Biochemical Quantum Hardware](#biochemical-quantum-hardware)
+- [Companies & Startups](#companies--startups)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -156,6 +157,15 @@ Educational materials and hands-on tutorials for getting started quickly.
 Biomolecular systems as quantum computing platforms.
 
 - [Peptides as Versatile Platforms for Quantum Computing](https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.8b01813) - Lanthanide-binding peptide tags as molecular qubits demonstrating coherent oscillations via pulsed EPR. (J. Phys. Chem. Lett., 2018)
+
+## Companies & Startups
+
+Organizations building products and services at the intersection of quantum computing and drug discovery.
+
+### Quantum-Native Drug Discovery & Platform Companies
+
+- [Algorithmiq](https://algorithmiq.fi/) (Finland) - Aurora platform with IBM partnership, quantum network medicine focus, and Cleveland Clinic cancer drug collaboration.
+- [Aqemia](https://www.aqemia.com/) (France) - Quantum-inspired statistical mechanics for affinity prediction.
 
 ## Contributing
 
