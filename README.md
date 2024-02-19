@@ -49,6 +49,8 @@ Quantum approaches for accurate molecular energy calculations, excited-state sim
 
 - [High-Quality Protein Force Fields with Noisy Quantum Processors](https://arxiv.org/abs/1907.07128) - Resource estimates and workflow for improving biomolecular force fields via quantum chemistry. (arXiv, 2019)
 - [Quantum chemical simulations of excited states](https://arxiv.org/abs/2109.02110) - Methods for computing excited electronic states relevant to photopharmacology. (arXiv, 2021)
+- [Reliably assessing the electronic structure of cytochrome P450 on today's classical computers and tomorrow's quantum computers](https://arxiv.org/abs/2202.01244) - Boehringer Ingelheim, Google, and QSimulate CYP450 benchmark introducing BLISS+THC for quantum resource reduction. (npj Quantum Information, 2022)
+- [Drug design on quantum computers](https://www.nature.com/articles/s41567-024-02411-5) - Comprehensive study on quantum methods for drug-relevant molecular simulations. (Nature Physics, 2024)
 
 ## Molecular Docking & Virtual Screening
 
