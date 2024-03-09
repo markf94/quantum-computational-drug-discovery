@@ -52,6 +52,10 @@ Quantum approaches for accurate molecular energy calculations, excited-state sim
 - [Reliably assessing the electronic structure of cytochrome P450 on today's classical computers and tomorrow's quantum computers](https://arxiv.org/abs/2202.01244) - Boehringer Ingelheim, Google, and QSimulate CYP450 benchmark introducing BLISS+THC for quantum resource reduction. (npj Quantum Information, 2022)
 - [Drug design on quantum computers](https://www.nature.com/articles/s41567-024-02411-5) - Comprehensive study on quantum methods for drug-relevant molecular simulations. (Nature Physics, 2024)
 
+### Free Energy, Solvation & Hybrid Pipelines
+
+- [A hybrid quantum computing pipeline for real world drug discovery](https://www.nature.com/articles/s41598-024-67897-8) - Practical hybrid quantum-classical pipeline for prodrug activation and covalent bond simulations. (Scientific Reports, 2024)
+
 ## Molecular Docking & Virtual Screening
 
 Quantum and quantum-inspired approaches for ligand docking, pose prediction, and large-scale screening.
