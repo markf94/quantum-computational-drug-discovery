@@ -15,6 +15,7 @@ A curated list of resources, papers, software, and tools at the intersection of 
 - [Protein Folding](#protein-folding)
 - [RNA & Genomics](#rna--genomics)
 - [Quantum Machine Learning for Drug Discovery](#quantum-machine-learning-for-drug-discovery)
+- [Drug Combination & Optimization](#drug-combination--optimization)
 - [Datasets & Benchmarks](#datasets--benchmarks)
 - [Software & Tools](#software--tools)
 - [Learning Resources](#learning-resources)
@@ -98,6 +99,13 @@ Applications of QML to molecule generation, molecular property prediction, and d
 
 - [Hybrid Quantum Neural Network for Drug Response Prediction](https://www.mdpi.com/2072-6694/15/10/2705) - Hybrid QNN for predicting drug response from cell line and chemical inputs. (Cancers, 2023)
 - [Quantum Machine Learning Predicting ADME-Tox Properties in Drug Discovery](https://pubs.acs.org/doi/10.1021/acs.jcim.3c01079) - QML models for ADMET property prediction, a key drug discovery bottleneck. (J. Chem. Inf. Model., 2023)
+
+## Drug Combination & Optimization
+
+Quantum methods focused on combinatorial treatment strategies and constrained molecular optimization.
+
+- [Q-Drug: A Framework to bring Drug Design into Quantum Space](https://arxiv.org/abs/2308.13171) - Deep learning combined with quantum annealing for molecular optimization. (arXiv, 2023)
+- [Towards quantum computing for clinical trial design and optimization](https://arxiv.org/abs/2404.13113) - IBM and Cleveland Clinic perspective on quantum optimization for trial site selection and cohort identification. (Trends in Pharmacological Sciences, 2024)
 
 ## Datasets & Benchmarks
 
