@@ -77,6 +77,11 @@ Quantum algorithms and comparative studies for protein and peptide folding.
 - [Resource-efficient quantum algorithm for protein folding](https://www.nature.com/articles/s41534-021-00368-4) - Introduced CVaR-VQE for tetrahedral-lattice protein folding. (npj Quantum Information, 2021)
 - [Quantum walks for protein and peptide folding](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009037) - Quantum-walk-based structure prediction in 3D. (PLOS Comput. Biol., 2021)
 
+### Comparative Studies & New Benchmarks
+
+- [Quantum synergy in peptide folding: CVaR-VQE vs molecular dynamics](https://www.sciencedirect.com/science/article/abs/pii/S0141813024038388) - Comparative study of 50 peptides showing CVaR-VQE outperforming MD for global optimization. (Int. J. Biol. Macromol., 2024)
+- [A comparative insight into peptide folding with quantum CVaR-VQE algorithm](https://link.springer.com/article/10.1007/s11128-024-04261-9) - Benchmarks CVaR-VQE against MD and Hidden Markov Models. (Quantum Inf. Process., 2024)
+
 ## RNA & Genomics
 
 Quantum computing applications for RNA structure prediction and genomic analysis.
