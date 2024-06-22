@@ -104,6 +104,7 @@ Applications of QML to molecule generation, molecular property prediction, and d
 
 - [Hybrid Quantum Neural Network for Drug Response Prediction](https://www.mdpi.com/2072-6694/15/10/2705) - Hybrid QNN for predicting drug response from cell line and chemical inputs. (Cancers, 2023)
 - [Quantum Machine Learning Predicting ADME-Tox Properties in Drug Discovery](https://pubs.acs.org/doi/10.1021/acs.jcim.3c01079) - QML models for ADMET property prediction, a key drug discovery bottleneck. (J. Chem. Inf. Model., 2023)
+- [Robust quantum reservoir computing for molecular property prediction](https://arxiv.org/abs/2412.06758) - Quantum reservoir computing for predicting biological activity from molecular descriptors. (arXiv, 2024)
 
 ## Drug Combination & Optimization
 
