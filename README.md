@@ -112,6 +112,7 @@ Quantum methods focused on combinatorial treatment strategies and constrained mo
 
 - [Q-Drug: A Framework to bring Drug Design into Quantum Space](https://arxiv.org/abs/2308.13171) - Deep learning combined with quantum annealing for molecular optimization. (arXiv, 2023)
 - [Towards quantum computing for clinical trial design and optimization](https://arxiv.org/abs/2404.13113) - IBM and Cleveland Clinic perspective on quantum optimization for trial site selection and cohort identification. (Trends in Pharmacological Sciences, 2024)
+- [Quantum-Aided Drug Design (QuADD)](https://polarisqb.com) - PolarisQB's D-Wave-based platform for constrained molecular optimization.
 
 ## Datasets & Benchmarks
 
