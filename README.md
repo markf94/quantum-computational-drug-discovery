@@ -65,6 +65,8 @@ Quantum and quantum-inspired approaches for ligand docking, pose prediction, and
 
 - [Molecular docking with Gaussian Boson Sampling](https://www.science.org/doi/10.1126/sciadv.aax1950) - Xanadu/ProteinQure collaboration showing photonic quantum devices can predict docking configurations via maximum weighted clique reductions. (Science Advances, 2020)
 - [Molecular Docking Using Quantum Mechanical-Based Methods](https://pubmed.ncbi.nlm.nih.gov/32016899/) - Review of QM-based docking for improved accuracy. (Methods Mol. Biol., 2020)
+- [Multibody molecular docking on a quantum annealer](https://arxiv.org/abs/2210.11401) - Multibody docking formulation mapped to quantum annealing for biomolecular interaction problems. (arXiv, 2022)
+- [Molecular docking via quantum approximate optimization algorithm](https://arxiv.org/abs/2308.04098) - Pharmacophore-based approach using labeled distance graphs. (arXiv, 2024)
 
 ## Protein Folding
 
