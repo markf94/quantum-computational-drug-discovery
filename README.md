@@ -19,6 +19,7 @@ A curated list of resources, papers, software, and tools at the intersection of 
 - [Datasets & Benchmarks](#datasets--benchmarks)
 - [Software & Tools](#software--tools)
 - [Learning Resources](#learning-resources)
+- [Quantum Hardware Platforms](#quantum-hardware-platforms)
 - [Biochemical Quantum Hardware](#biochemical-quantum-hardware)
 - [Companies & Startups](#companies--startups)
 - [Contributing](#contributing)
@@ -174,6 +175,15 @@ Educational materials and hands-on tutorials for getting started quickly.
 - [AWS Quantum Drug Discovery Workshop](https://awslabs.github.io/quantum-computing-exploration-for-drug-discovery-on-aws/en/workshop/) - Hands-on notebooks covering molecular unfolding, protein folding, and retrosynthetic planning.
 - [NVIDIA CUDA-Q: Molecular docking via DC-QAOA](https://nvidia.github.io/cuda-quantum/latest/applications/python/digitized_counterdiabatic_qaoa.html) - Tutorial implementing DC-QAOA docking (based on [arXiv:2308.04098](https://arxiv.org/abs/2308.04098)).
 - [MATLAB Protein Folding VQE Example](https://www.mathworks.com/help/matlab/math/ground-state-protein-folding-using-variational-quantum-eigensolver-vqe.html) - Step-by-step VQE implementation for neuropeptide folding.
+
+## Quantum Hardware Platforms
+
+Hardware providers with relevance to molecular simulation and drug discovery workflows.
+
+### Gate-Based Quantum Computers
+
+- [Google Quantum AI](https://quantumai.google/) - Superconducting processors; partner collaborations include Boehringer Ingelheim.
+- [IBM Quantum](https://www.ibm.com/quantum) - Superconducting quantum processors; pharma collaborations include Cleveland Clinic (Discovery Accelerator) and Moderna (mRNA design).
 
 ## Biochemical Quantum Hardware
 
