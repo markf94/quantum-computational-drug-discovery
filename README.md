@@ -184,6 +184,8 @@ Hardware providers with relevance to molecular simulation and drug discovery wor
 
 - [Google Quantum AI](https://quantumai.google/) - Superconducting processors; partner collaborations include Boehringer Ingelheim.
 - [IBM Quantum](https://www.ibm.com/quantum) - Superconducting quantum processors; pharma collaborations include Cleveland Clinic (Discovery Accelerator) and Moderna (mRNA design).
+- [IonQ](https://ionq.com/) - Trapped-ion quantum computers available via Amazon Braket and Azure Quantum.
+- [Quantinuum](https://www.quantinuum.com/) - H-Series trapped-ion systems with high fidelity; Microsoft partnership demonstrated 12 logical qubits for chemistry (2024).
 
 ## Biochemical Quantum Hardware
 
