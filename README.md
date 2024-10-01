@@ -187,6 +187,10 @@ Hardware providers with relevance to molecular simulation and drug discovery wor
 - [IonQ](https://ionq.com/) - Trapped-ion quantum computers available via Amazon Braket and Azure Quantum.
 - [Quantinuum](https://www.quantinuum.com/) - H-Series trapped-ion systems with high fidelity; Microsoft partnership demonstrated 12 logical qubits for chemistry (2024).
 
+### Photonic Quantum Computers
+
+- [Xanadu](https://www.xanadu.ai/) - Photonic quantum computing; creators of PennyLane and Strawberry Fields, with applications including Gaussian Boson Sampling.
+
 ## Biochemical Quantum Hardware
 
 Biomolecular systems as quantum computing platforms.
