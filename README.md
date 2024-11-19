@@ -193,6 +193,10 @@ Hardware providers with relevance to molecular simulation and drug discovery wor
 
 - [Xanadu](https://www.xanadu.ai/) - Photonic quantum computing; creators of PennyLane and Strawberry Fields, with applications including Gaussian Boson Sampling.
 
+### Quantum Annealers
+
+- [D-Wave](https://www.dwavequantum.com/) - 5000+ qubit annealing systems used in molecular docking and constrained optimization.
+
 ## Biochemical Quantum Hardware
 
 Biomolecular systems as quantum computing platforms.
