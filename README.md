@@ -188,9 +188,11 @@ Hardware providers with relevance to molecular simulation and drug discovery wor
 - [IBM Quantum](https://www.ibm.com/quantum) - Superconducting quantum processors; pharma collaborations include Cleveland Clinic (Discovery Accelerator) and Moderna (mRNA design).
 - [IonQ](https://ionq.com/) - Trapped-ion quantum computers available via Amazon Braket and Azure Quantum.
 - [Quantinuum](https://www.quantinuum.com/) - H-Series trapped-ion systems with high fidelity; Microsoft partnership demonstrated 12 logical qubits for chemistry (2024).
+- [Rigetti](https://www.rigetti.com/) - Superconducting quantum processors available via Rigetti QCS and Amazon Braket.
 
 ### Photonic Quantum Computers
 
+- [PsiQuantum](https://www.psiquantum.com/) - Photonic quantum computing; pharma collaborations include Boehringer Ingelheim (CYP450 simulation).
 - [Xanadu](https://www.xanadu.ai/) - Photonic quantum computing; creators of PennyLane and Strawberry Fields, with applications including Gaussian Boson Sampling.
 
 ### Quantum Annealers
