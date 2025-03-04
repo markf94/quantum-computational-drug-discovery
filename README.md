@@ -215,6 +215,7 @@ Organizations building products and services at the intersection of quantum comp
 - [Aqemia](https://www.aqemia.com/) (France) - Quantum-inspired statistical mechanics for affinity prediction.
 - [Kuano](https://kuano.ai/) (UK) - Quantum machine learning for molecular discovery.
 - [Menten AI](https://www.menten.ai/) (USA/Canada) - Quantum-enhanced peptide and protein design.
+- [Phasecraft](https://www.phasecraft.io/) (UK) - Quantum algorithms for drug discovery; Wellcome Leap Q4Bio covalent inhibitor project with University of Nottingham and QuEra.
 - [Polaris Quantum Biotech (PolarisQB)](https://polarisqb.com/) (USA) - QuADD platform on D-Wave for lead identification and constrained molecular optimization.
 
 ## Contributing
