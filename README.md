@@ -199,6 +199,11 @@ Hardware providers with relevance to molecular simulation and drug discovery wor
 
 - [D-Wave](https://www.dwavequantum.com/) - 5000+ qubit annealing systems used in molecular docking and constrained optimization.
 
+### Neutral-Atom Quantum Computers
+
+- [PASQAL](https://www.pasqal.com/) - Neutral-atom processors; partner collaborations include Qubit Pharmaceuticals.
+- [QuEra Computing](https://www.quera.com/) - Neutral-atom systems with collaborations including Merck KGaA and Amgen.
+
 ## Biochemical Quantum Hardware
 
 Biomolecular systems as quantum computing platforms.
