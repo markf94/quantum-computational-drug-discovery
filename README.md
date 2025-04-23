@@ -225,6 +225,7 @@ Organizations building products and services at the intersection of quantum comp
 - [QSimulate](https://qsimulate.com/) (USA) - Ab initio quantum simulation for drug discovery.
 - [Qubit Pharmaceuticals](https://www.qubit-pharmaceuticals.com/) (France/USA) - Atlas platform combining HPC simulation with quantum algorithms; WEF Technology Pioneer 2024.
 - [SandboxAQ](https://www.sandboxaq.com/) (USA) - Developer of Tangelo and AQChemSim (formerly QEMIST Cloud); collaborations include AstraZeneca and Sanofi.
+- [XtalPi](https://www.xtalpi.com/) (China/USA) - ID4 platform combining quantum mechanics and AI; partnerships include Pfizer.
 
 ## Contributing
 
