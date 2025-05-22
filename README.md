@@ -222,6 +222,8 @@ Organizations building products and services at the intersection of quantum comp
 - [Menten AI](https://www.menten.ai/) (USA/Canada) - Quantum-enhanced peptide and protein design.
 - [Phasecraft](https://www.phasecraft.io/) (UK) - Quantum algorithms for drug discovery; Wellcome Leap Q4Bio covalent inhibitor project with University of Nottingham and QuEra.
 - [Polaris Quantum Biotech (PolarisQB)](https://polarisqb.com/) (USA) - QuADD platform on D-Wave for lead identification and constrained molecular optimization.
+- [ProteinQure](https://www.proteinqure.com/) (Canada) - Peptide drug discovery with long-term quantum R&D focus.
+- [QC Ware](https://qcware.com/) (USA) - Promethium quantum chemistry SaaS platform; partnerships include Merck KGaA and NVIDIA Quantum Cloud integration.
 - [QSimulate](https://qsimulate.com/) (USA) - Ab initio quantum simulation for drug discovery.
 - [Qubit Pharmaceuticals](https://www.qubit-pharmaceuticals.com/) (France/USA) - Atlas platform combining HPC simulation with quantum algorithms; WEF Technology Pioneer 2024.
 - [SandboxAQ](https://www.sandboxaq.com/) (USA) - Developer of Tangelo and AQChemSim (formerly QEMIST Cloud); collaborations include AstraZeneca and Sanofi.
