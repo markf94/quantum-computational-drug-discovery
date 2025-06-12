@@ -229,6 +229,11 @@ Organizations building products and services at the intersection of quantum comp
 - [SandboxAQ](https://www.sandboxaq.com/) (USA) - Developer of Tangelo and AQChemSim (formerly QEMIST Cloud); collaborations include AstraZeneca and Sanofi.
 - [XtalPi](https://www.xtalpi.com/) (China/USA) - ID4 platform combining quantum mechanics and AI; partnerships include Pfizer.
 
+### Quantum Software Providers with Pharma Engagement
+
+- [1QBit](https://1qbit.com/) (Canada) - Quantum software provider; pharma partnership history includes Biogen (via Accenture).
+- [HQS Quantum Simulations](https://quantumsimulations.de/) (Germany) - Quantum chemistry software; three-year partnership with Merck KGaA for drug screening and molecular property prediction.
+
 ## Contributing
 
 Contributions welcome! Please read our [contribution guidelines](CONTRIBUTING.md) first.
