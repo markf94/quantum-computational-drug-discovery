@@ -13,6 +13,7 @@ A curated list of resources, papers, software, and tools at the intersection of 
 - [Quantum Chemistry & Molecular Simulation](#quantum-chemistry--molecular-simulation)
 - [Molecular Docking & Virtual Screening](#molecular-docking--virtual-screening)
 - [Protein Folding](#protein-folding)
+- [Peptide & Antibody Design](#peptide--antibody-design)
 - [RNA & Genomics](#rna--genomics)
 - [Quantum Machine Learning for Drug Discovery](#quantum-machine-learning-for-drug-discovery)
 - [Drug Combination & Optimization](#drug-combination--optimization)
@@ -86,6 +87,13 @@ Quantum algorithms and comparative studies for protein and peptide folding.
 
 - [Quantum synergy in peptide folding: CVaR-VQE vs molecular dynamics](https://www.sciencedirect.com/science/article/abs/pii/S0141813024038388) - Comparative study of 50 peptides showing CVaR-VQE outperforming MD for global optimization. (Int. J. Biol. Macromol., 2024)
 - [A comparative insight into peptide folding with quantum CVaR-VQE algorithm](https://link.springer.com/article/10.1007/s11128-024-04261-9) - Benchmarks CVaR-VQE against MD and Hidden Markov Models. (Quantum Inf. Process., 2024)
+
+## Peptide & Antibody Design
+
+Quantum methods specifically targeting biologics discovery.
+
+- [Quantum computing for protein design](https://arxiv.org/pdf/2105.09690.pdf) - Approaches for computational protein and peptide engineering.
+- [Quantum algorithms for antimicrobial peptides](https://arxiv.org/abs/2401.03994) - Includes membrane environmental effects without additional qubits.
 
 ## RNA & Genomics
 
