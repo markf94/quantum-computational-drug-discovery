@@ -23,6 +23,7 @@ A curated list of resources, papers, software, and tools at the intersection of 
 - [Quantum Hardware Platforms](#quantum-hardware-platforms)
 - [Biochemical Quantum Hardware](#biochemical-quantum-hardware)
 - [Companies & Startups](#companies--startups)
+- [Industry Partnerships & Consortia](#industry-partnerships--consortia)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -242,6 +243,13 @@ Organizations building products and services at the intersection of quantum comp
 - [1QBit](https://1qbit.com/) (Canada) - Quantum software provider; pharma partnership history includes Biogen (via Accenture).
 - [HQS Quantum Simulations](https://quantumsimulations.de/) (Germany) - Quantum chemistry software; three-year partnership with Merck KGaA for drug screening and molecular property prediction.
 - [QunaSys](https://qunasys.com/news/posts/quenais_e/) (Japan) - Quantum chemistry software company and lead coordinator of the QuEnAIS quantum-AI drug discovery consortium.
+
+## Industry Partnerships & Consortia
+
+Collaborative initiatives advancing quantum drug discovery.
+
+- **IBM Quantum Network** - Includes Cleveland Clinic (Discovery Accelerator), Moderna, and multiple pharma partners.
+- **QIDO** - Quantum-Integrated Discovery Orchestrator platform by Mitsui, QSimulate, and Quantinuum for drug and materials discovery; beta tested by Chugai Pharmaceutical (2025).
 
 ## Contributing
 
