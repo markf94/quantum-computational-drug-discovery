@@ -42,6 +42,8 @@ Comprehensive reviews and strategic perspectives on quantum computing applicatio
 - [Quantum Computing for Molecular Biology](https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/cbic.202300120) - Road map from ETH Zurich's Quantum for Life Center covering biochemical simulations, structure prediction, and data-driven approaches. (ChemBioChem, 2023)
 - [A Perspective on Protein Structure Prediction Using Quantum Computers](https://pubs.acs.org/doi/full/10.1021/acs.jctc.4c00067) - IBM Quantum perspective on selecting protein structure problems amenable to quantum advantage, with proof-of-concept on Zika Virus NS3 Helicase. (J. Chem. Theory Comput., 2024)
 - [Quantum biological convergence: quantum computing accelerates KRAS inhibitor design](https://www.nature.com/articles/s41392-025-02239-2) - Commentary on the KRAS breakthrough highlighting QCBMs for navigating chemical space. (Signal Transduction and Targeted Therapy, 2025)
+- [Quantum Machine Learning in Drug Discovery: Applications in Academia and Pharmaceutical Industries](https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00678) - Review of QNNs on gate-based quantum computers for property prediction and molecular generation. (Chemical Reviews, 2025)
+- [Quantum Computing in Drug Discovery: Techniques, Challenges, and Emerging Opportunities](https://pubmed.ncbi.nlm.nih.gov/40873222/) - Overview of quantum techniques, current challenges, and emerging opportunities in pharmaceutical applications. (Current Drug Discovery Technologies, 2025)
 
 ### Industry Perspectives
 
