@@ -59,6 +59,8 @@ Quantum approaches for accurate molecular energy calculations, excited-state sim
 - [Quantum chemical simulations of excited states](https://arxiv.org/abs/2109.02110) - Methods for computing excited electronic states relevant to photopharmacology. (arXiv, 2021)
 - [Reliably assessing the electronic structure of cytochrome P450 on today's classical computers and tomorrow's quantum computers](https://arxiv.org/abs/2202.01244) - Boehringer Ingelheim, Google, and QSimulate CYP450 benchmark introducing BLISS+THC for quantum resource reduction. (npj Quantum Information, 2022)
 - [Drug design on quantum computers](https://www.nature.com/articles/s41567-024-02411-5) - Comprehensive study on quantum methods for drug-relevant molecular simulations. (Nature Physics, 2024)
+- [Shortcut to chemically accurate quantum computing via density-based basis-set correction](https://www.nature.com/articles/s41467-024-46566-4) - Qubit Pharmaceuticals and Sorbonne University method reducing qubit requirements for molecular simulation. (Nature Communications, 2024)
+- [Faster Quantum Chemistry Simulations on a Quantum Computer with Improved Tensor Factorization and Active Volume Compilation](https://arxiv.org/abs/2501.06165) - PsiQuantum and Boehringer Ingelheim report 234x speedup for CYP450 and 278x for FeMoco using Active Volume compilation. (PRX Quantum, 2025)
 
 ### Free Energy, Solvation & Hybrid Pipelines
 
