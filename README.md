@@ -44,6 +44,8 @@ Comprehensive reviews and strategic perspectives on quantum computing applicatio
 - [Quantum biological convergence: quantum computing accelerates KRAS inhibitor design](https://www.nature.com/articles/s41392-025-02239-2) - Commentary on the KRAS breakthrough highlighting QCBMs for navigating chemical space. (Signal Transduction and Targeted Therapy, 2025)
 - [Quantum Machine Learning in Drug Discovery: Applications in Academia and Pharmaceutical Industries](https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00678) - Review of QNNs on gate-based quantum computers for property prediction and molecular generation. (Chemical Reviews, 2025)
 - [Quantum Computing in Drug Discovery: Techniques, Challenges, and Emerging Opportunities](https://pubmed.ncbi.nlm.nih.gov/40873222/) - Overview of quantum techniques, current challenges, and emerging opportunities in pharmaceutical applications. (Current Drug Discovery Technologies, 2025)
+- [Quantum intelligence in drug discovery: Advancing insights with quantum machine learning](https://www.sciencedirect.com/science/article/abs/pii/S135964462500176X) - Review of QML applications including property prediction, docking simulations, and de novo design. (Drug Discovery Today, 2025)
+- [Prioritizing quantum computing use cases in the drug discovery and development pipeline](https://www.sciencedirect.com/science/article/pii/S1359644625000364) - Industry perspective on prioritizing QC applications across the drug development pipeline. (Drug Discovery Today, 2025)
 
 ### Industry Perspectives
 
