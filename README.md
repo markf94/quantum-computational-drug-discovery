@@ -63,9 +63,11 @@ Quantum approaches for accurate molecular energy calculations, excited-state sim
 - [Drug design on quantum computers](https://www.nature.com/articles/s41567-024-02411-5) - Comprehensive study on quantum methods for drug-relevant molecular simulations. (Nature Physics, 2024)
 - [Shortcut to chemically accurate quantum computing via density-based basis-set correction](https://www.nature.com/articles/s41467-024-46566-4) - Qubit Pharmaceuticals and Sorbonne University method reducing qubit requirements for molecular simulation. (Nature Communications, 2024)
 - [Faster Quantum Chemistry Simulations on a Quantum Computer with Improved Tensor Factorization and Active Volume Compilation](https://arxiv.org/abs/2501.06165) - PsiQuantum and Boehringer Ingelheim report 234x speedup for CYP450 and 278x for FeMoco using Active Volume compilation. (PRX Quantum, 2025)
+- [Challenges and Advances in the Simulation of Targeted Covalent Inhibitors Using Quantum Computing](https://pubs.acs.org/doi/10.1021/acs.jpclett.5c01680) - Review of QM/MM scoring functions, warhead reactivity, and quantum computing opportunities for covalent drugs. (J. Phys. Chem. Lett., 2025)
 
 ### Free Energy, Solvation & Hybrid Pipelines
 
+- [Solvent configuration prediction using quantum computing](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.043020) - PASQAL collaboration on protein hydration analysis using neutral-atom quantum computers. (Phys. Rev. Research, 2024)
 - [A hybrid quantum computing pipeline for real world drug discovery](https://www.nature.com/articles/s41598-024-67897-8) - Practical hybrid quantum-classical pipeline for prodrug activation and covalent bond simulations. (Scientific Reports, 2024)
 
 ## Molecular Docking & Virtual Screening
