@@ -50,6 +50,7 @@ Comprehensive reviews and strategic perspectives on quantum computing applicatio
 ### Industry Perspectives
 
 - [BCG Survey](https://www.bcg.com/publications/2023/quantum-computing-will-transform-pharma) - 8 of top 10 biopharma companies piloting quantum projects. (BCG, 2023)
+- [McKinsey: The quantum revolution in pharma](https://www.mckinsey.com/industries/life-sciences/our-insights/the-quantum-revolution-in-pharma-faster-smarter-and-more-precise) - Strategic overview of quantum opportunities in life sciences. (McKinsey, 2025)
 
 ## Quantum Chemistry & Molecular Simulation
 
