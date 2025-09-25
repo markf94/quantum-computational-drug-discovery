@@ -84,6 +84,11 @@ Quantum and quantum-inspired approaches for ligand docking, pose prediction, and
 - [Quantum molecular docking with quantum-inspired algorithm](https://arxiv.org/abs/2404.08265) - QA-inspired binary encodings and hopscotch simulated bifurcation for rugged docking energy landscapes; compared against AutoDock Vina and DiffDock. (arXiv, 2024; JCTC 2024: [10.1021/acs.jctc.4c00141](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.4c00141))
 - [Quantum-Inspired Machine Learning for Molecular Docking](https://arxiv.org/abs/2401.12999) - Quantum-inspired optimization combined with diffusion models for blind docking. (arXiv, 2024)
 
+### Annealing & Screening Workflows
+
+- [Molecular unfolding formulation with enhanced quantum annealing](https://arxiv.org/abs/2403.00507) - D-Wave implementation for molecular unfolding in geometric docking, showing 42.5% mean speedup over classical GeoDock. (arXiv, 2024)
+- [Quantum Algorithm for Structure-Based Virtual Drug Screening Using Classical Force Fields](https://arxiv.org/abs/2505.07876) - Uses qubits to evaluate many ligand configurations in superposition while computing binding energies from classical force-field terms. (arXiv, 2025)
+
 ## Protein Folding
 
 Quantum algorithms and comparative studies for protein and peptide folding.
