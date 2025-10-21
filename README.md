@@ -83,6 +83,8 @@ Quantum and quantum-inspired approaches for ligand docking, pose prediction, and
 - [Molecular docking via quantum approximate optimization algorithm](https://arxiv.org/abs/2308.04098) - Pharmacophore-based approach using labeled distance graphs. (arXiv, 2024)
 - [Quantum molecular docking with quantum-inspired algorithm](https://arxiv.org/abs/2404.08265) - QA-inspired binary encodings and hopscotch simulated bifurcation for rugged docking energy landscapes; compared against AutoDock Vina and DiffDock. (arXiv, 2024; JCTC 2024: [10.1021/acs.jctc.4c00141](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.4c00141))
 - [Quantum-Inspired Machine Learning for Molecular Docking](https://arxiv.org/abs/2401.12999) - Quantum-inspired optimization combined with diffusion models for blind docking. (arXiv, 2024)
+- [Quantum Approximate Optimization Algorithms for Molecular Docking](https://arxiv.org/abs/2503.04239) - Pfizer-led research mapping docking to maximum vertex weight clique, solved with QAOA and DC-QAOA. (arXiv, 2025)
+- [Quantum algorithm for protein-ligand docking sites identification](https://link.springer.com/article/10.1007/s10822-025-00620-5) - Grover-based algorithm for binding site identification, validated on IBM quantum hardware. (J. Comput. Aided Mol. Des., 2025)
 
 ### Annealing & Screening Workflows
 
