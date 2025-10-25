@@ -108,6 +108,7 @@ Quantum algorithms and comparative studies for protein and peptide folding.
 - [A comparative insight into peptide folding with quantum CVaR-VQE algorithm](https://link.springer.com/article/10.1007/s11128-024-04261-9) - Benchmarks CVaR-VQE against MD and Hidden Markov Models. (Quantum Inf. Process., 2024)
 - [QuPepFold: A Python package for hybrid quantum-classical protein folding simulations](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0342012) - Modular package targeting intrinsically disordered regions on Qiskit Aer, Amazon Braket, and IonQ Aria-1. (PLOS ONE, 2025)
 - [Capturing Protein Free Energy Landscape using Efficient Quantum Encoding](https://arxiv.org/abs/2510.15316) - FCC lattice encoding with Miyazawa-Jernigan potential, validated on IBM 133-qubit hardware. (arXiv, 2025)
+- [Quantum-Enabled Protein Folding of Disordered Regions in Ubiquitin C](https://ieeexplore.ieee.org/document/11130538/) - Error-mitigated VQE for Ubiquitin C terminal region folding. (IEEE, 2025)
 
 ## Peptide & Antibody Design
 
