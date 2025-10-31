@@ -134,9 +134,11 @@ Applications of QML to molecule generation, molecular property prediction, and d
 - [Quantum computing for near-term applications in generative chemistry and drug discovery](https://www.sciencedirect.com/science/article/pii/S1359644623001915) - Review of NISQ-era quantum applications for de novo molecular generation. (Drug Discovery Today, 2023)
 - [Exploring the Advantages of Quantum Generative Adversarial Networks in Generative Chemistry](https://pubs.acs.org/doi/10.1021/acs.jcim.3c00562) - Insilico/Zapata/U of T hybrid MolGAN-CQ with quantum discriminator outperforming classical GANs on drug-likeness metrics. (J. Chem. Inf. Model., 2023)
 - [Hybrid quantum-classical machine learning for generative chemistry and drug design](https://www.nature.com/articles/s41598-023-32703-4) - Hybrid architectures combining quantum circuits with classical networks for molecule generation and property optimization. (Scientific Reports, 2023)
+- [QCA-MolGAN: Quantum Circuit Associative Molecular GAN with Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2509.05051) - QCBM-enabled GAN with multi-agent RL to steer QED/LogP/SA objectives for drug-like molecules. (arXiv, 2025)
 
 ### Property, Activity, and Interaction Prediction
 
+- [Quantum machine learning algorithms for drug discovery applications](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.1c00166) - Benchmark study using SVM and data reuploading classifier on SARS-CoV-2 and TB datasets. (J. Chem. Inf. Model., 2021)
 - [Hybrid Quantum Neural Network for Drug Response Prediction](https://www.mdpi.com/2072-6694/15/10/2705) - Hybrid QNN for predicting drug response from cell line and chemical inputs. (Cancers, 2023)
 - [Quantum Machine Learning Predicting ADME-Tox Properties in Drug Discovery](https://pubs.acs.org/doi/10.1021/acs.jcim.3c01079) - QML models for ADMET property prediction, a key drug discovery bottleneck. (J. Chem. Inf. Model., 2023)
 - [Robust quantum reservoir computing for molecular property prediction](https://arxiv.org/abs/2412.06758) - Quantum reservoir computing for predicting biological activity from molecular descriptors. (arXiv, 2024)
