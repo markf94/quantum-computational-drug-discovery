@@ -169,6 +169,7 @@ Quantum methods focused on combinatorial treatment strategies and constrained mo
 
 - [QMugs: Quantum Mechanical Properties of Drug-like Molecules](https://www.nature.com/articles/s41597-022-01870-w) - Large-scale dataset with DFT-calculated properties for drug-like molecules and molecular conformers. (Scientific Data, 2022)
 - [A performance characterization of quantum generative models](https://arxiv.org/abs/2301.09363) - Benchmarking QCBM/QGAN variants useful for selecting architectures in molecular generation pipelines. (arXiv, 2023)
+- [QDockBank: A Dataset for Ligand Docking on Protein Fragments Predicted on Utility-Level Quantum Computers](https://arxiv.org/abs/2508.00837) - Protein-fragment structures for docking benchmarks generated via superconducting quantum processors. (arXiv, 2025)
 
 ## Software & Tools
 
