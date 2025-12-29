@@ -278,6 +278,8 @@ Collaborative initiatives advancing quantum drug discovery.
 
 - **IBM Quantum Network** - Includes Cleveland Clinic (Discovery Accelerator), Moderna, and multiple pharma partners.
 - **QIDO** - Quantum-Integrated Discovery Orchestrator platform by Mitsui, QSimulate, and Quantinuum for drug and materials discovery; beta tested by Chugai Pharmaceutical (2025).
+- [QuEnAIS](https://qunasys.com/news/posts/quenais_e/) - Quantum-AI drug discovery consortium led by QunaSys.
+- **QuPharm** - Alliance of pharmaceutical companies developing quantum computing solutions for drug discovery.
 
 ## Contributing
 
