@@ -282,6 +282,14 @@ Collaborative initiatives advancing quantum drug discovery.
 - [QuEnAIS](https://qunasys.com/news/posts/quenais_e/) - Quantum-AI drug discovery consortium led by QunaSys.
 - **QuPharm** - Alliance of pharmaceutical companies developing quantum computing solutions for drug discovery.
 
+### Funding Commitments
+
+- **Novo Holdings** - DKK 1.4 billion (~€188M) commitment to quantum computing in life sciences, with portfolio including Phasecraft and Sparrow Quantum (2024).
+
+### Pharma Companies with Quantum Programs
+
+- **Amgen** - QuEra collaboration for molecular property prediction.
+
 ## Contributing
 
 Contributions welcome! Please read our [contribution guidelines](CONTRIBUTING.md) first.
