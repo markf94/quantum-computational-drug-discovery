@@ -289,6 +289,8 @@ Collaborative initiatives advancing quantum drug discovery.
 ### Pharma Companies with Quantum Programs
 
 - **Amgen** - QuEra collaboration for molecular property prediction.
+- **Boehringer Ingelheim** - Collaborations with Google Quantum AI and PsiQuantum (CYP450 simulation); studies including quantum chemistry for metalloenzymes.
+- **Johnson & Johnson** - Patent filings and quantum research programs.
 
 ## Contributing
 
