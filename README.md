@@ -291,6 +291,8 @@ Collaborative initiatives advancing quantum drug discovery.
 - **Amgen** - QuEra collaboration for molecular property prediction.
 - **Boehringer Ingelheim** - Collaborations with Google Quantum AI and PsiQuantum (CYP450 simulation); studies including quantum chemistry for metalloenzymes.
 - **Johnson & Johnson** - Patent filings and quantum research programs.
+- **Merck KGaA** - Multiple initiatives including SEEQC consortium, QC Ware partnership, and QuEra collaboration.
+- **Moderna** - IBM collaboration for mRNA medicine design.
 
 ## Contributing
 
