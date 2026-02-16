@@ -116,6 +116,7 @@ Quantum methods specifically targeting biologics discovery.
 
 - [Quantum computing for protein design](https://arxiv.org/pdf/2105.09690.pdf) - Approaches for computational protein and peptide engineering.
 - [Quantum algorithms for antimicrobial peptides](https://arxiv.org/abs/2401.03994) - Includes membrane environmental effects without additional qubits.
+- [De Novo Design of Protein-Binding Peptides by Quantum Computing](https://pubs.acs.org/doi/10.1021/acs.jctc.5c00768) - Multiscale framework combining D-Wave quantum annealer with classical atomistic docking for peptide design. (J. Chem. Theory Comput., 2025)
 
 ## RNA & Genomics
 
