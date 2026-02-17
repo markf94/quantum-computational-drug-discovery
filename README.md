@@ -296,6 +296,8 @@ Collaborative initiatives advancing quantum drug discovery.
 - **Johnson & Johnson** - Patent filings and quantum research programs.
 - **Merck KGaA** - Multiple initiatives including SEEQC consortium, QC Ware partnership, and QuEra collaboration.
 - **Moderna** - IBM collaboration for mRNA medicine design.
+- **Pfizer** - Quantum algorithm development for molecular docking and simulation.
+- **Roche** - Internal quantum research programs and startup collaborations.
 - **Sanofi** - SandboxAQ partnership for molecular simulation and AI-driven biomarker identification in clinical development (2024).
 
 ## Contributing
