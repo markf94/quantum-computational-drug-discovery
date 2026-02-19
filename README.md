@@ -46,6 +46,7 @@ Comprehensive reviews and strategic perspectives on quantum computing applicatio
 - [Quantum Computing in Drug Discovery: Techniques, Challenges, and Emerging Opportunities](https://pubmed.ncbi.nlm.nih.gov/40873222/) - Overview of quantum techniques, current challenges, and emerging opportunities in pharmaceutical applications. (Current Drug Discovery Technologies, 2025)
 - [Quantum intelligence in drug discovery: Advancing insights with quantum machine learning](https://www.sciencedirect.com/science/article/abs/pii/S135964462500176X) - Review of QML applications including property prediction, docking simulations, and de novo design. (Drug Discovery Today, 2025)
 - [Prioritizing quantum computing use cases in the drug discovery and development pipeline](https://www.sciencedirect.com/science/article/pii/S1359644625000364) - Industry perspective on prioritizing QC applications across the drug development pipeline. (Drug Discovery Today, 2025)
+- [Quantum-machine-assisted drug discovery](https://www.nature.com/articles/s44386-025-00033-2) - Review examining quantum approaches for molecular simulation, drug-target interaction prediction, and clinical trial optimization. (npj Drug Discovery, 2026)
 
 ### Industry Perspectives
 
