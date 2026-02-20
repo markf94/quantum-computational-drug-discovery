@@ -71,6 +71,7 @@ Quantum approaches for accurate molecular energy calculations, excited-state sim
 
 - [Solvent configuration prediction using quantum computing](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.043020) - PASQAL collaboration on protein hydration analysis using neutral-atom quantum computers. (Phys. Rev. Research, 2024)
 - [A hybrid quantum computing pipeline for real world drug discovery](https://www.nature.com/articles/s41598-024-67897-8) - Practical hybrid quantum-classical pipeline for prodrug activation and covalent bond simulations. (Scientific Reports, 2024)
+- [Approximate quantum circuit compilation for proton-transfer kinetics on quantum processors](https://pubs.rsc.org/en/content/articlelanding/2026/cp/d5cp04097c) - Algorithmiq, AstraZeneca, and Hartree Centre achieve 54% reduction in noisy operations using hardware-adapted fermion-to-qubit mappings. (Phys. Chem. Chem. Phys., 2026)
 
 ## Molecular Docking & Virtual Screening
 
